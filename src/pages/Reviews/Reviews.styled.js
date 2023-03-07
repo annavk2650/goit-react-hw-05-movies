@@ -11,10 +11,6 @@ export const Author = styled.h2`
   color: #e3f309cb;
 `;
 
-// export const Coment = styled(ShowMoreText)`
-//   color: #e3f309cb;
-// `;
-
 export const Review = styled.ul`
   text-align: justify;
 `;
